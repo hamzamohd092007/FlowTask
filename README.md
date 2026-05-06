@@ -66,8 +66,8 @@ This project focuses on improving task management experience with a clean UI and
 
 ## 🌐 Live Demo
 
-Frontend: _Coming Soon_  
-Backend API: _Coming Soon_
+- Frontend: [FlowTask - Vercel](https://flow-task-phi.vercel.app)
+- Backend: [FlowTask - Render](https://flowtask-6qzn.onrender.com)
 
 ---
 
