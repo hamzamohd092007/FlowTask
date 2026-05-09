@@ -53,14 +53,10 @@ This project focuses on improving task management experience with a clean UI and
 
 ## 📸 Screenshots
 
-- Desktop
 ![AuthPageDesktop](screenshots/authpage_desktop.jpg)
 ![HomePageDesktop](screenshots/homepage_desktop.jpg)
 ![ProfilePageDesktop](screenshots/profilepage_desktop.jpg)
-- Mobile
-![AuthPageMobile](screenshots/authpage_mobile.jpg)
 ![HomePageMobile](screenshots/homepage_mobile.jpg)
-![ProfilePageMobile](screenshots/profilepage_mobile.jpg)
 
 ---
 
