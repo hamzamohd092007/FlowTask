@@ -78,7 +78,7 @@ This project focuses on improving task management experience with a clean UI and
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/flowtask.git
+git clone https://github.com/hamzamohd092007/flowtask.git
 
 # Navigate to project folder
 cd FlowTask
